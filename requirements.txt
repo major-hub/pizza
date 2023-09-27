@@ -1,0 +1,17 @@
+django
+djangorestframework
+django-filter
+django-redis
+Pillow
+django-cleanup
+django-cors-headers
+gunicorn
+psycopg2-binary
+python-dotenv
+requests
+django-admin-autocomplete-filter
+drf-yasg
+django-debug-toolbar
+gevent
+psycogreen
+python-telegram-bot
